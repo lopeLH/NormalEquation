@@ -9,7 +9,7 @@ is provided but we generate more by exponentiation of the one provided: x^2, x^3
 
 The implementation is based on the following equation, explained by prof. Andrew Ng at the Stanford-Machine Learning course in Coursera:
 
-<img src="https://github.com/lopeLH/NormalEquation/blob/master/NormalEquation/githubImages/2ce21b8e24ea7509a3295c3acd2ae0ea.png"  width=175 height=25 />
+<img src="https://github.com/lopeLH/NormalEquation/blob/master/NormalEquation/githubImages/2ce21b8e24ea7509a3295c3acd2ae0ea.png"  width=185 height=25 />
 
 In this example you click on the graph to add new points and then use the "fit" button to execute gradient descent
 and fit a polynomial expression to the data provided.
