@@ -14,3 +14,5 @@ The implementation is based on the following equation, explained by prof. Andrew
 In this example you click on the graph to add new points and then use the "fit" button to execute gradient descent
 and fit a polynomial expression to the data provided.
 
+JAMA library (http://math.nist.gov/javanumerics/jama/) is used for the Matix algebra.
+
